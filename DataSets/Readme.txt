@@ -1,1 +1,1 @@
-Contains furnished and usable dataSets. 
+Contains furnished and ready to use dataSets. 
