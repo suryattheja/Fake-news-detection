@@ -7,4 +7,6 @@ For each article, the GuardianFeatures.csv and the NYTFeatures.csv contain featu
   - Count of adjectives
   - Average word lenghts
   - Count of ! marks
+ CompleteFeatDataset contains the merged content of GuardianFeatures.csv and NYTFeatures.csv. FakeFeatures.csv contains the 
+ same features for fake news articles.
  We proceed to apply classification algorithms using the above as features.
