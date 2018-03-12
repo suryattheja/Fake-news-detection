@@ -1,1 +1,10 @@
-Containts the feature vectors for each dataSet
+For each article, the GuardianFeatures.csv and the NYTFeatures.csv contain feature vectors. The features embedded in these vectors are:
+  - Lenght of article
+  - Count of punctuations
+  - Count of misspells
+  - Sentiment analysed using NLTK
+  - Count of superlatives
+  - Count of adjectives
+  - Average word lenghts
+  - Count of ! marks
+ We proceed to apply classification algorithms using the above as features.
